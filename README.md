@@ -1,2 +1,1 @@
-Moved to https://codeberg.org/florimondmanca/talks
-
+Moved to https://speakerdeck.com/florimondmanca/
